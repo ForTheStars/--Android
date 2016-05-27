@@ -1,7 +1,9 @@
-package cn.jhc.exercise;
+package cn.jhc.exercise.main;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import cn.jhc.exercise.R;
 
 public class MainActivity extends AppCompatActivity {
 
